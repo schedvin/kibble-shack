@@ -1,0 +1,1 @@
+#define BLE_ADVERTISING_DEVICE_NAME "Catfeeder"
